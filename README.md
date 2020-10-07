@@ -6,7 +6,7 @@
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Tests](#tests)
-* [Questions]{#questions}
+* [Questions](#questions)
 
   
   ## Description
